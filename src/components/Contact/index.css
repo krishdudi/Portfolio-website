@@ -1,0 +1,53 @@
+.contact {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+}
+.contact-about{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: "Days One", sans-serif;;
+}
+/* .contact-section-left {
+	display: flex;
+	flex: 1;
+	justify-content: space-between;
+	align-items: center;
+	margin: 16px 0px;
+} */
+
+/* .contact-section-left {
+	max-width: 60%;
+	font-size: 20px;
+	text-align: center;
+} */
+.Social-Contact{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.social-icon-div {
+	padding: 6px;
+	margin: 12px;
+	cursor: pointer;
+	transition: transform 0.2s; /* Animation */
+}
+.social-icon-div:hover {
+	transform: scale(1.5);
+}
+@media only screen and (max-width: 720px) {
+    .contact-about{
+        font-size: 16px;
+    }
+    .Social-contact {
+		flex-wrap: wrap;
+        width: 40%;
+
+	}
+	/* .contact-section-left {
+		width: 100%;
+		font-size: 16px;
+		margin-bottom: 12px;
+	} */
+}

@@ -15,8 +15,8 @@ export const ProjectsData = [
 		about:
 			"Responsive portfolio website using react to showcase my project and skills as a digital resume hosted on heroku",
 		tags: ["ReactJS", "Heroku", "HTML", "CSS", "JS"],
-		demo: "https://hrushikesh-makode.web.app/",
-		github: "https://github.com/HrushiMakode/portfolio",
+		demo: "https://krishportfolio.herokuapp.com/",
+		github: "https://github.com/krishdudi/Portfolio-website",
 		image: "https://i.ibb.co/s1bwHQp/Screenshot-109.png",
 	}
 ]

@@ -24,7 +24,7 @@ export const ProjectsData = [
 		title: "iNews App",
 		about: "React web app which uses news API for displaying various types of news based on different categories",
 		tags: ["ReactJS", "NEWS API"],
-		demo: "Will be displayed soon",
+		// demo: "Will be displayed soon",
 		github: "https://github.com/krishdudi/NewsApp",
 		image: "https://i.ibb.co/dfhd2L2/Screenshot-111.png"
 	}

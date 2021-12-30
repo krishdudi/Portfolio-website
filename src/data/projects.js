@@ -27,6 +27,15 @@ export const ProjectsData = [
 		// demo: "Will be displayed soon",
 		github: "https://github.com/krishdudi/NewsApp",
 		image: "https://i.ibb.co/dfhd2L2/Screenshot-111.png"
+	},
+	{
+		id: 4,
+		title: "MovieFlix",
+		about: "React web app which uses TMDB API for displaying popular movies and their details. In this we can also search movie by their name.",
+		tags: ["ReactJS", "TMDB API", "Custom Hooks"],
+		demo: "https://krishmovieflix.herokuapp.com/",
+		github: "https://github.com/krishdudi/MovieFlix",
+		image: "https://i.ibb.co/qrBYd2W/Screenshot-114.png"
 	}
 
 ]
